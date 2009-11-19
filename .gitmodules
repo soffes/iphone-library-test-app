@@ -1,0 +1,3 @@
+[submodule "Frameworks/TestLibrary"]
+	path = Frameworks/TestLibrary
+	url = git@github.com:samsoffes/iphone-library-test-library.git
