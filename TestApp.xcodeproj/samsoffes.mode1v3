@@ -228,8 +228,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -273,8 +271,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
-									<integer>6</integer>
+									<integer>3</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -309,6 +307,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -326,10 +326,10 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>B21497B610B50E43006BC0B0</string>
+										<string>B2B6A40310B5110A004A55AA</string>
 										<key>history</key>
 										<array>
-											<string>B21497B510B50E43006BC0B0</string>
+											<string>B2B6A40210B5110A004A55AA</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -341,14 +341,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {592, 349}}</string>
+								<string>{{0, 0}, {592, 498}}</string>
 								<key>RubberWindowFrame</key>
 								<string>545 491 800 544 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>349pt</string>
+							<string>498pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -361,14 +361,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 354}, {592, 149}}</string>
+								<string>{{0, 503}, {592, 0}}</string>
 								<key>RubberWindowFrame</key>
 								<string>545 491 800 544 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>149pt</string>
+							<string>0pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -387,9 +387,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>B214974410B50C64006BC0B0</string>
+				<string>B2B6A40410B5110A004A55AA</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>B214974510B50C64006BC0B0</string>
+				<string>B2B6A40510B5110A004A55AA</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -527,8 +527,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>B214974710B50C64006BC0B0</string>
 		<string>/Users/samsoffes/Desktop/TestApp/TestApp.xcodeproj</string>
 	</array>
@@ -612,7 +610,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>B214974710B50C64006BC0B0</string>
-				<string>B214974810B50C64006BC0B0</string>
+				<string>B2B6A40110B51106004A55AA</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
