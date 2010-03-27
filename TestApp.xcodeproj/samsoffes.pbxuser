@@ -2,9 +2,9 @@
 {
 	1D3623250D0F684500981E51 /* TestAppAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {698, 592}}";
-			sepNavSelRange = "{500, 94}";
-			sepNavVisRange = "{40, 705}";
+			sepNavIntBoundsRect = "{{0, 0}, {698, 544}}";
+			sepNavSelRange = "{345, 0}";
+			sepNavVisRange = "{0, 599}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* TestApp */ = {
@@ -70,16 +70,12 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 280301786;
-			PBXWorkspaceStateSaveDate = 280301786;
+			PBXPerProjectTemplateStateSaveDate = 291396546;
+			PBXWorkspaceStateSaveDate = 291396546;
 		};
 		perUserProjectItems = {
-			B21497B510B50E43006BC0B0 = B21497B510B50E43006BC0B0 /* PBXTextBookmark */;
-			B21497DC10B510AF006BC0B0 = B21497DC10B510AF006BC0B0 /* PBXTextBookmark */;
-			B2B6A3FF10B51106004A55AA /* XCBuildMessageTextBookmark */ = B2B6A3FF10B51106004A55AA /* XCBuildMessageTextBookmark */;
-			B2B6A40010B51106004A55AA /* PBXTextBookmark */ = B2B6A40010B51106004A55AA /* PBXTextBookmark */;
-			B2B6A40210B5110A004A55AA /* XCBuildMessageTextBookmark */ = B2B6A40210B5110A004A55AA /* XCBuildMessageTextBookmark */;
-			B2B6A40310B5110A004A55AA /* PBXTextBookmark */ = B2B6A40310B5110A004A55AA /* PBXTextBookmark */;
+			B26E946E115E5BC000E0EC17 /* PBXTextBookmark */ = B26E946E115E5BC000E0EC17 /* PBXTextBookmark */;
+			B26E9489115E5BD100E0EC17 /* PBXTextBookmark */ = B26E9489115E5BD100E0EC17 /* PBXTextBookmark */;
 		};
 		sourceControlManager = B214974910B50C64006BC0B0 /* Source Control */;
 		userBuildSettings = {
@@ -127,60 +123,24 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	B21497B510B50E43006BC0B0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "TestLibrary/TestLibrary.h: No such file or directory";
-		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
-		rLen = 1;
-		rLoc = 9;
-		rType = 1;
-	};
-	B21497DC10B510AF006BC0B0 /* PBXTextBookmark */ = {
+	B26E946E115E5BC000E0EC17 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
-		name = "TestAppAppDelegate.m: 7";
+		name = "TestAppAppDelegate.m: 24";
 		rLen = 0;
-		rLoc = 143;
-		rType = 0;
-		vrLen = 598;
-		vrLoc = 0;
-	};
-	B2B6A3FF10B51106004A55AA /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "'BlueView' undeclared (first use in this function)";
-		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 22;
-		rType = 1;
-	};
-	B2B6A40010B51106004A55AA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
-		name = "TestAppAppDelegate.m: 23";
-		rLen = 94;
-		rLoc = 500;
-		rType = 0;
-		vrLen = 411;
-		vrLoc = 271;
-	};
-	B2B6A40210B5110A004A55AA /* XCBuildMessageTextBookmark */ = {
-		isa = PBXTextBookmark;
-		comments = "'BlueView' undeclared (first use in this function)";
-		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
-		fallbackIsa = XCBuildMessageTextBookmark;
-		rLen = 1;
-		rLoc = 22;
-		rType = 1;
-	};
-	B2B6A40310B5110A004A55AA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
-		name = "TestAppAppDelegate.m: 23";
-		rLen = 94;
-		rLoc = 500;
+		rLoc = 499;
 		rType = 0;
 		vrLen = 705;
 		vrLoc = 40;
+	};
+	B26E9489115E5BD100E0EC17 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TestAppAppDelegate.m */;
+		name = "TestAppAppDelegate.m: 19";
+		rLen = 0;
+		rLoc = 345;
+		rType = 0;
+		vrLen = 599;
+		vrLoc = 0;
 	};
 }
